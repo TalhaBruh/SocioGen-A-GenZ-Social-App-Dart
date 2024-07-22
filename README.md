@@ -1,6 +1,4 @@
-#   | Open For HacktoberFest [Contributions](#✨-how-to-contribute)
-
-An Instagram clone Re-Imagined with a new UI design
+# SocioGen  | An Instagram clone Re-Imagined with a new UI design
 
 ## 🎨 Design Vision | [Figma UI Map](https://www.figma.com/file/D0kgXo4fTkSzV0MpKUaEEI/Fistagram-UI-(Public)?node-id=0%3A1)
 
