@@ -7,7 +7,6 @@
 [Video showcase](https://user-images.githubusercontent.com/69642436/194084921-28a768f7-5056-45c2-b83f-3fa8ee56e3aa.mp4)
 
 ## 📱 App Structure
-
 ```
 Login|Signup Screen/
 ├── Home/
@@ -20,7 +19,6 @@ Login|Signup Screen/
 ```
 
 ## 🚀 Tech Stack
-
 - Flutter
 - Firebase
 
